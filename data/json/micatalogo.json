@@ -1,0 +1,90 @@
+{
+    "catalogo": {
+        "productos": [
+            {
+                "id": "Impresora 3D",
+                "nombre": "Impresora 3D",
+                "descripcion": "Impresora 3D de altas capacidades con nueva tecnología.",
+                "categoria": "Modelado 3D",
+                "precio": {
+                    "moneda": "EUR",
+                    "valor": 508
+                },
+                "imagen": "foto.jpg",
+                "enlace": "https://www.pccomponentes.com/creality-k1c-impresora-3d-cerrada-22x22x25cm-compatible-con-fibra-de-carbono-pla-cf-pet-cf"
+            },
+            {
+                "id": "Impresora 3D resina",
+                "nombre": "Impresora de resina",
+                "descripcion": "Impresora 3D de resina Halot One Plus, con capacidades perfectas para la creación de maquetas.",
+                "categoria": "Modelado 3D",
+                "precio": {
+                    "moneda": "EUR",
+                    "valor": 1190
+                },
+                "imagen": "foto2.jpg",
+                "enlace": "https://www.pccomponentes.com/creality-halot-one-plus-cl-79-impresora-3d-de-resina"
+            },
+            {
+                "id": "Tele Samsung 4K",
+                "nombre": "Televisor Samsung",
+                "descripcion": "Televisión de última generación 4K con calidad increíble por un precio asequible.",
+                "categoria": "Imagen y audio",
+                "precio": {
+                    "moneda": "EUR",
+                    "valor": 899
+                },
+                "imagen": "foto3.jpg",
+                "enlace": "https://www.pccomponentes.com/tv-samsung-crystal-uhd-led-85-ue85u8072fuxxh-ultrahd-4k-hdr-tizen"
+            },
+            {
+                "id": "Portatil Lenovo IdeaPad",
+                "nombre": "Portátil Lenovo",
+                "descripcion": "Portátil Lenovo de última generación con todas las capacidades más avanzadas.",
+                "categoria": "Multiple",
+                "precio": {
+                    "moneda": "EUR",
+                    "valor": 499
+                },
+                "imagen": "foto4.jpg",
+                "enlace": "https://www.pccomponentes.com/portatil-lenovo-ideapad-slim-3-15irh8-intel-core-i5-13420h-16gb-512gb-ssd-156"
+            },
+            {
+                "id": "Samsung S25 ULTRA",
+                "nombre": "Samsung S25",
+                "descripcion": "Samsung S25 TITANIO, el último modelo creado con la mayor potencia hasta ahora.",
+                "categoria": "Multiple",
+                "precio": {
+                    "moneda": "EUR",
+                    "valor": 1199
+                },
+                "imagen": "foto5.jpg",
+                "enlace": "https://www.pccomponentes.com/samsung-galaxy-s25-ultra-smartphone-con-ia-512gb-5000mah-titanio-negro-intenso-version-importada-eu?refurbished"
+            },
+            {
+                "id": "Monitor Nilox",
+                "nombre": "Monitor",
+                "descripcion": "Monitor LED QHD 144Hz curvo, con excelente estabilidad de FPS y gran calidad de imagen.",
+                "categoria": "Imagen y video",
+                "precio": {
+                    "moneda": "EUR",
+                    "valor": 168.99
+                },
+                "imagen": "foto6.jpg",
+                "enlace": "https://www.pccomponentes.com/nilox-nxm272k14401-27-led-qhd-144hz-curvo"
+            },
+            {
+                "id": "Fuente de alimentacion",
+                "nombre": "Fuente",
+                "descripcion": "Fuente de alimentación Corsair de excelente calidad.",
+                "categoria": "Energia Electrica",
+                "precio": {
+                    "moneda": "EUR",
+                    "valor": 73.99
+                },
+                "imagen": "foto7.jpg",
+                "enlace": "https://www.pccomponentes.com/corsair-cx750-750-w-80-plus-bronze"
+            }
+        ]
+    }
+}
