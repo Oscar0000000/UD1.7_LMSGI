@@ -7,11 +7,13 @@
         "item": [
           {
             "ref": "X-99",
-            "estado": "roto"        
+            "estado": "roto",
+            "descripcion": "Monitor CRT"        
           },
           {
             "ref": "X-100",
-            "estado": "nuevo"
+            "estado": "nuevo",
+            "descripcion": "Teclado Mecánico"
           }
         ]
       },
