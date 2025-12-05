@@ -1,0 +1,25 @@
+{
+  "sistema_inventario": {
+    "zona_almacen": {
+      "codigo": "A1",
+      "estante": {
+        "nivel": "3",
+        "item": [
+          {
+            "ref": "X-99",
+            "estado": "roto"        
+          },
+          {
+            "ref": "X-100",
+            "estado": "nuevo"
+          }
+        ]
+      },
+      "responsable": {
+        "nombre": "Juan",
+        "permisos": ["admin", "editor"]
+      }
+    }
+  }
+}
+
